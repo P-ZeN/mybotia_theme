@@ -25,8 +25,8 @@ app_license = "mit"
 # ------------------
 
 # include js, css files in header of desk.html
-# app_include_css = "/assets/mybotia_theme/css/mybotia_theme.css"
-# app_include_js = "/assets/mybotia_theme/js/mybotia_theme.js"
+app_include_css = "/assets/mybotia_theme/css/mybotia_theme.css"
+app_include_js = "/assets/mybotia_theme/js/mybotia_theme.js"
 
 # include js, css files in header of web template
 # web_include_css = "/assets/mybotia_theme/css/mybotia_theme.css"
